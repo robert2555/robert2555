@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robert2555
 - 👀 I’m interested in programming and the crypto space
-- 🌱 I’m currently learning Go language
+- 🌱 I’m always learning new stuff
 - 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me: Just write a pn on github :)
 
