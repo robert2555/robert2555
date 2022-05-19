@@ -2,7 +2,9 @@
 - 👀 I’m interested in programming and the crypto space
 - 🌱 I’m always learning new stuff
 - 💞️ I’m looking to collaborate on some open source projects
-- 📫 How to reach me: Just write a pn on github :)
+- 📫 How to reach me: Just write a pm on github :)
+
+Also programming on MQL5 https://www.mql5.com/en/users/trading2555/seller
 
 <!---
 robert2555/robert2555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
